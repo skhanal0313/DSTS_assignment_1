@@ -23,17 +23,17 @@ This repository contains the source code (.ipynb) and relevant files for DSTS As
 ## Overview
 
 This assignment consists of following tasks:
-- Part A: Importing and Undersatanding Data
+- **Part A: Importing and Undersatanding Data**
     - Plots/Graphs
     - Exploratory Data Analysis (EDA)
     - Cuisine Density Map
     - Interactive Plots
     - Tableau Dashboard and link
-- Part B: Predictive Modelling
+- **Part B: Predictive Modelling**
     - Feature Engineering
     - Regression Models
     - Classification Models
-- Part C: Deployment
+- **Part C: Deployment**
     - GitHub
     - Docker Hub
 
