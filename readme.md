@@ -1,9 +1,9 @@
-# DSTS Assignment 1
+# DSTS Assignment 1: Predictive Modelling of Eating-Out Problem
 
 ## Author: Sujan Khanal  
-**University ID**: U3258630  
+**University ID**: u3258630  
 
-This repository contains the source code and relevant files for DSTS Assignment 1, which involves creating and deploying machine learning models for regression and classification, along with a Tableau dashboard visualization. It also includes the necessary Docker setup for containerizing the application.
+This repository contains the source code and relevant files for DSTS Assignment 1: Predictive Modelling of Eating-Out Problem, which involves creating and deploying machine learning models for regression and classification, along with a Tableau dashboard visualization. There is also the implementation of Docker Hub and Git Hub along with their list of commands and links.
 
 ---
 
