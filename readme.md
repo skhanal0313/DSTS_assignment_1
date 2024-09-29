@@ -3,7 +3,7 @@
 ## Author: Sujan Khanal  
 **University ID**: u3258630  
 
-This repository contains the source code (.ipynb) and relevant files for DSTS Assignment 1: Predictive Modelling of Eating-Out Problem, which involves creating and deploying machine learning models for regression and classification, along with a Tableau dashboard visualization. In addition, there are some insights on the implementation of Docker Hub and Git Hub along with their list of commands and corresponding links.
+This repository contains the source code (.ipynb) and relevant files for DSTS Assignment 1: Predictive Modelling of Eating-Out Problem, which implies several stages of a data analysis project, along with a Tableau dashboard visualization. The goal is to create and deploy different machine learning models for regression and classification, compare the accuracies, and draw out the conclusion. Additionally, there are some insights on the implementation of Docker Hub and Git Hub along with their list of commands and corresponding links as well.
 
 ---
 
